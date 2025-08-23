@@ -1,2 +1,3 @@
 #!/bin/sh
-killall jack_sine
+killall python3
+echo "Session ended."
