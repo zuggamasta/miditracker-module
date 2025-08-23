@@ -1,2 +1,3 @@
 #!/bin/sh
-jack_sine 440 0.3
+source venv/bin/activate
+python3 midiTracker.py
