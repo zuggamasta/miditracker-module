@@ -1,4 +1,4 @@
 #!/bin/sh
-cd midiTracker
+cd /home/patch/midiTracker
 . venv/bin/activate
 python3 midiTracker.py
