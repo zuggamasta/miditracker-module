@@ -1,7 +1,7 @@
 {
 	"name": "midiTracker",
-	"version": "1.0.0",
-	"description": "Setup and start miditracker",
+	"version": "1.0.1",
+	"description": "Send Midinotes",
 	"author": "zuggamasta",
 	"launch_mode": "auto",
 	"depends_on": [
@@ -15,4 +15,5 @@
 		"stop": "stop.sh"
 	}
 }
+
 
